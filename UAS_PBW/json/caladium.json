@@ -1,0 +1,27 @@
+[
+  {
+    "gambar" : "img/Caladium_ace_of_heart.jpg",
+    "nama" : "Caladium Ace of Heart",
+    "harga" : 140000
+  },
+  {
+    "gambar" : "img/Caladium_pink_love.jpg",
+    "nama" : "Caladium Pink Love",
+    "harga" : 150000
+  },
+  {
+    "gambar" : "img/Caladium_fiesta.jpg",
+    "nama" : "Caladium Fiesta",
+    "harga" : 160000
+  },
+  {
+    "gambar" : "img/Caladium_green_spider.jpg",
+    "nama" : "Caladium Green Spider",
+    "harga" : 170000
+  },
+  {
+    "gambar" : "img/caladium_candidum.jpg",
+    "nama" : "Caladium Candidum",
+    "harga" : 180000
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "gambar" : "img/Monstrea_Obliqua.png",
+    "nama": "Monstera Obliqua",
+    "harga" : 160000
+  },
+  {
+    "gambar" : "img/Monstrea_Dubia.png",
+    "nama": "Monstera Dubia",
+    "harga" : 150000
+  },
+  {
+    "gambar" : "img/Monstera_Variegata.jpg",
+    "nama": "Monstera Variegata",
+    "harga" : 170000
+  },
+  {
+    "gambar" : "img/Monstera_Borsigiana.png",
+    "nama": "Monstera Borsigiana",
+    "harga" : 170000
+  },
+  {
+    "gambar" : "img/Monstera_Deliciosa.jpg",
+    "nama": "Monstera Deliciosa",
+    "harga" : 180000
+  },
+  {
+    "gambar" : "img/Monstera_Adansonii.jpg",
+    "nama": "Monstera Adansonii",
+    "harga" : 190000
+  }
+]

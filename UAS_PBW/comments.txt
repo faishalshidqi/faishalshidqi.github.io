@@ -1,0 +1,195 @@
+<!--
+AGLONEMA
+<div class="column">
+                <a href="" style="width:100%">
+                    <img src="img/aglonemaSuksom.jpg" alt="Aglonema Suksom"><br>
+                    Aglonema Suksom<br>
+                    Rp 140,000<br>
+                </a>
+            </div>
+            <div class="column">
+                <a href="" style="width:100%">
+                    <img src="img/aglonemaVenus.jpg" alt="Aglonema Venus"><br>
+                    Aglonema Venus<br>
+                    Rp 140,000<br>
+                </a>
+            </div>
+            <div class="column">
+                <a href="" style="width:100%">
+                    <img src="img/aglonemaRotundumAceh.jpg" alt="Aglonema Rotundum"><br>
+                    Aglonema Rotundum<br>
+                    Rp 140,000<br>
+                </a>
+            </div>
+            <div class="column">
+                <a href="" style="width:100%">
+                    <img src="img/aglonemaRoDudAnjamani.jpg" alt="Aglonema Rodud Anjamani"><br>
+                    Aglonema RoDud Anjamani<br>
+                    Rp 140,000<br>
+                </a>
+            </div>
+            <div class="column">
+                <a href="" style="width:100%">
+                    <img src="img/aglonemaSuperWhite.jpg" alt="Aglonema Super White"><br>
+                    Aglonema Super White<br>
+                    Rp 140,000<br>
+                </a>
+            </div>
+            <div class="column">
+                <a href="" style="width:100%">
+                    <img src="img/aglonemaRedChocin.jpg" alt="Aglonema Red Chocin"><br>
+                    Aglonema Red Chocin<br>
+                    Rp 140,000<br>
+                </a>
+            </div>-->
+
+            <!--
+            CALADIUM
+            <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Caladium_ace_of_heart.jpg" alt="Caladium Ace of Heart"><br>
+                                Caladium Ace of Heart<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Caladium_pink_love.jpg" alt="Caladium Pink Love"><br>
+                                Caladium Pink Love<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Caladium_fiesta.jpg" alt="Caladium Fiesta"><br>
+                                Caladium Fiesta<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="row2">
+                        <!--<div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Caladium_green_spider.jpg" alt="Caladium Green Spider"><br>
+                                        Caladium Green Spider<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                    </div>
+                                    <div class="column">
+                                        <a href="" style="width:100%">
+                                            <img src="img/caladium_candidum.jpg" alt="Caladium Candidum"><br>
+                                            Caladium Candidum<br>
+                                            Rp 140,000<br>
+                                        </a>
+                                    </div>-->
+                    </div>
+
+                    <!--
+                    MONSTERA
+                    <div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstera_Deliciosa.jpg" alt="Monstera Deliciosa"><br>
+                                        Monstrea Deliciosa<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>
+                                <div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstera_Adansonii.jpg" alt="Monstera Adansonii"><br>
+                                        Monstrea Adansonii<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>
+                                <div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstera_Variegata.jpg" alt="Monstera Variegata"><br>
+                                        Monstrea Variegata<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>
+                            </div>-->
+                            <div id="row2">
+                                <!--<div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstrea_Dubia.png" alt="Monstera Dubia"><br>
+                                        Monstera Dubia<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>
+                                <div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstrea_Obliqua.png" alt="Monstera Obliqua"><br>
+                                        Monstera Obliqua<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>
+                                <div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstrea_Thai_Constellation.png" alt="Monstera Thai Constellation"><br>
+                                        Monstera Thai Constellation<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="column">
+                                    <a href="" style="width:100%">
+                                        <img src="img/Monstera_Borsigiana.png" alt="Monstera Borsigiana"><br>
+                                        Monstera Borsigiana<br>
+                                        Rp 140,000<br>
+                                    </a>
+                                </div>-->
+
+            <!--TERLARIS
+                    TIDAK DIHAPUS SEBAGAI DOKUMENTASI STRUKTUR HTML ASLI
+
+                    <div class="row">
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/aglonemaSuksom.jpg" alt="Aglonema Suksom" class="items"><br>
+                                <span class="name">Aglonema Suksom </span><br>
+                                <span class="price">Rp 140,000<br></span>
+                            </a>
+                        </div>
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/aglonemaVenus.jpg" alt="Aglonema Venus"><br>
+                                Aglonema Venus<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Caladium_fiesta.jpg" alt="Caladium Fiesta"><br>
+                                Caladium Fiesta<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                    </div>
+
+                    TIDAK DIHAPUS SEBAGAI DOKUMENTASI STRUKTUR HTML ASLI
+
+                    <div class="row">
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Caladium_pink_love.jpg" alt="Caladium Pink Love"><br>
+                                Caladium Pink Love<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Monstera_Deliciosa.jpg" alt="Monstera Deliciosa"><br>
+                                Monstera Deliciosa<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+                        <div class="column">
+                            <a href="" style="width:100%">
+                                <img src="img/Monstera_Adansonii.jpg" alt="Monstera Adansonii"><br>
+                                Monstera Adansonii<br>
+                                Rp 140,000<br>
+                            </a>
+                        </div>
+
+                    </div>-->

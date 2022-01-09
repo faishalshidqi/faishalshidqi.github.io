@@ -1,0 +1,31 @@
+[
+  {
+    "gambar": "img/Caladium_pink_love.jpg",
+    "nama": "Caladium Pink Love",
+    "harga": 170000
+  },
+  {
+    "gambar": "img/Monstera_Deliciosa.jpg",
+    "nama": "Monstera Deliciosa",
+    "harga": 180000
+  },
+  {
+    "gambar": "img/Monstera_Adansonii.jpg",
+    "nama": "Monstera Adansonii",
+    "harga": 190000
+  },
+  {
+    "gambar": "img/Caladium_fiesta.jpg",
+    "nama": "Caladium Fiesta",
+    "harga": 160000
+  },
+  {"gambar": "img/aglonemaSuksom.jpg",
+  "nama": "Aglonema Suksom",
+  "harga": 140000
+  },
+  {
+    "gambar": "img/aglonemaVenus.jpg",
+    "nama": "Aglonema Venus",
+    "harga": 150000
+  }
+]

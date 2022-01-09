@@ -1,0 +1,255 @@
+* {
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 300px){
+    footer {
+        width: 100%;
+        padding: 0;
+        overflow: auto;
+    }
+    aside, .content {
+        width: fit-content;
+    }
+}
+@media screen and (max-width: 900px){
+    .content, aside, footer {
+        width: 100%;
+        padding: 0;
+        overflow: auto;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    li {
+        float: left;
+        display: flex;
+        flex-flow: column;
+        flex-direction: column;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+
+    .col-h-1 {width: 8.33%;}
+    .col-h-2 {width: 16.66%;}
+    .col-h-3 {width: 25%;}
+    .col-h-4 {width: 33.33%;}
+    .col-h-5 {width: 41.66%;}
+    .col-h-6 {width: 50%;}
+    .col-h-7 {width: 58.33%;}
+    .col-h-8 {width: 66.66%;}
+    .col-h-9 {width: 75%;}
+    .col-h-10 {width: 83.33%;}
+    .col-h-11 {width: 91.66%;}
+    .col-h-12 {width: 100%;}
+}
+@media only screen and (max-width: 1200px) {
+    aside {
+        float: left;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    li {
+        float: left;
+        display: flex;
+        flex-flow: column;
+        flex-direction: column;
+        margin-right: 10px;
+    }
+
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+
+body {
+    height: 100%;
+    background-color: white;
+    background-position: center;
+}
+header {
+    background-image: url("img/caladium_candidum.jpg");
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    margin: 50px;
+    text-decoration: none;
+    background-color: #ffb747;
+    padding: 20px;
+    overflow: hidden;
+    display: flex;
+    float: left;
+    flex-basis: 25%;
+}
+nav ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+}
+nav a {
+    font-size: 17px;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #8bff4a;
+    color: black;
+}
+.menu {
+    display: flex;
+    float: left;
+    flex-basis: 25%;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+.menu li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color :#ffb747;
+    color: #000000;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.menu li:hover {
+    background-color: green;
+    color: #ffffff;
+}
+.menu img {
+    display: flex;
+    align-items: center;
+}
+table {
+    width: fit-content;
+    float: right;
+    alignment: right;
+}
+.content {
+    flex-basis: 80%;
+    float: left;
+    width: auto;
+    alignment: left;
+    align-content: flex-end;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: inherit;
+    background-color: #ffb747;
+    margin: 20px;
+}
+.content .column {
+    padding: 10px;
+    display: flex;
+    float: left;
+    flex-shrink: inherit;
+}
+/* style utak atikan terakhir yang menunya malah vertikal mepet kiri
+.content {
+    flex-basis: 80%;
+    float: left;
+    width: auto;
+    alignment: left;
+    align-content: flex-end;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: inherit;
+    background-color: #ffb747;
+    margin: 20px;
+}
+.content .column {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    float: contour;
+    flex-shrink: inherit;
+}*/
+/* Sama aja vertikal mepet kiri, cuma widthnya bisa maksimal
+.content {
+    flex-basis: 80%;
+    float: inherit;
+    width: auto;
+    alignment: right;
+    align-content: flex-end;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: inherit;
+    background-color: #ffb747;
+    padding: 20px;
+}
+.content .column {
+    width: fit-content;
+    padding: 10px;
+    display: flex;
+    float: revert;
+    flex-basis: 80%;
+    flex-direction: column;
+    flex-shrink: inherit;
+} */
+
+
+.datar {
+    display: flex;
+    flex-direction: column;
+    float: top;
+    flex-shrink: inherit;
+}
+a img {
+    width: 250px;
+    height: 250px;
+    alignment: center;
+}
+aside {
+    width: 20%;
+    float: left;
+    flex-basis: 20%;
+    background-color: #ffb747;
+    margin: 20px;
+}
+aside .row1 .row2 {
+    margin: 20px;
+    alignment: right;
+    float: right;
+}
+footer {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10px;
+    margin-top: 100%;
+    font-size: 15px;
+    background-color: #ffb747;
+}
+a {
+    width: auto;
+    text-decoration: none;
+    color: black;
+}

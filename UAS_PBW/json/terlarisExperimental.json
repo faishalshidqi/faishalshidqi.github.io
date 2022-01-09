@@ -1,0 +1,38 @@
+{
+  "terlaris": {
+    "terlaris1": [
+      {
+        "gambar": "img/aglonemaSuksom.jpg",
+        "nama": "Aglonema Suksom",
+        "harga": 140000
+      },
+      {
+        "gambar": "img/aglonemaVenus.jpg",
+        "nama": "Aglonema Venus",
+        "harga": 150000
+      },
+      {
+        "gambar": "img/Caladium_fiesta.jpg",
+        "nama": "Caladium Fiesta",
+        "harga": 160000
+      }
+    ],
+    "terlaris2": [
+      {
+        "gambar": "img/Caladium_pink_love.jpg",
+        "nama": "Caladium Pink Love",
+        "harga": 140000
+      },
+      {
+        "gambar": "img/Monstera_Deliciosa.jpg",
+        "nama": "Monstera Deliciosa",
+        "harga": 150000
+      },
+      {
+        "gambar": "img/Monstera_Adansonii.jpg",
+        "nama": "Monstera Adansonii",
+        "harga": 160000
+      }
+    ]
+  }
+}
