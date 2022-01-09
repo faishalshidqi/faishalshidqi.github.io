@@ -22,7 +22,7 @@
         <li><a href="beranda.html">Home</a></li>
         <li><a href="About.html">About</a></li>
         <li><a href="index.html">Belanja</a></li>
-        <li><a href="http://localhost/UAS_PBW/add_tamu.html">Buku Tamu</a></li>
+        <li><a href="https://faishalshidqi.github.io/UAS_PBW/add_tamu.html">Buku Tamu</a></li>
     </ul>
 </nav>
 <div class="container" style="margin-left: 290px;">
