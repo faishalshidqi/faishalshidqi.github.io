@@ -91,10 +91,11 @@ header {
     text-align: center;
 }
 nav {
-    margin: 50px;
+    padding: 50px;
     text-decoration: none;
     background-color: #ffb747;
-    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
     overflow: hidden;
     display: flex;
     float: left;
