@@ -9,6 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
+      { text: 'Blogs', link: '/blog' },
     ],
 
     sidebar: [
@@ -17,6 +18,12 @@ export default defineConfig({
         items: [
           { text: 'Web Backend Engineering', link: '/backend' },
           { text: 'Web Frontend Engineering', link: '/frontend' }
+        ]
+      },
+      {
+        text: 'Blogs',
+        items: [
+          {text: 'HackTheBox UnderPass Writeup', link: '/blog/underpass_htb' },
         ]
       }
     ],
