@@ -48,7 +48,7 @@ PORT    STATE SERVICE
 161/udp open  snmp
 
 Nmap done: 1 IP address (1 host up) scanned in 56.23 seconds
-
-:::tip
+```
+::: info
 This machine is still active. Full writeup will be published once the machine is retired.
 :::
